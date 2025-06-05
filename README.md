@@ -10,7 +10,7 @@ I'm a passionate develope, focused on building elegant, efficient solutions to r
 
 ### 🔭 What I'm currently working on
 - SkillBridge - Responsive web application that connecting `local skilled workers` with `customers`.
-- Aape-UK  - E-commerce Web App that manage, sell `clothes` in the UK.
+- Kaarbi  - E-commerce Web App that manage, sell `Cars` In the worldwide.
 
 ### 🌱 What I'm currently learning
 - Next.js
