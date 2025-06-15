@@ -10,7 +10,7 @@ I'm a passionate develope, focused on building elegant, efficient solutions to r
 
 ### 🔭 What I'm currently working on
 - SkillBridge - Responsive web application that connecting `local skilled workers` with `customers`.
-- Kaarbi  - E-commerce Web App that manage, sell `Cars` In the worldwide.
+- Personal Portfolio
 
 ### 🌱 What I'm currently learning
 - Next.js
@@ -54,7 +54,7 @@ I'm a passionate develope, focused on building elegant, efficient solutions to r
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyup16)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eyupUskuplu_16)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eyup-portfolio.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eyup-dev.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyupcoder@gmail.com)
   
 </div>
